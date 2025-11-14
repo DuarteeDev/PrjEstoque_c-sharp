@@ -1,4 +1,4 @@
-#Sistema de Estoque
+**#Sistema de Estoque**
 
 Este projeto é um sistema de controle de estoque desenvolvido em C# utilizando Windows Forms e SQL Server. Ele permite o gerenciamento de produtos, incluindo cadastro, atualização, exclusão e visualização de itens armazenados.
 
